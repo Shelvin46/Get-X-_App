@@ -1,4 +1,4 @@
-# chat_app
+# Get-x_App
 
 A new Flutter project.
 
